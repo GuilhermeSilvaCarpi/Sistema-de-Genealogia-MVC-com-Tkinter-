@@ -1,4 +1,4 @@
-# 🌳 Sistema de Genealogia (MVC com Tkinter)
+# Sistema de Genealogia (MVC com Tkinter)
 
 Um sistema desktop para gerenciamento e visualização de relações familiares, desenvolvido em Python com arquitetura MVC e interface gráfica em Tkinter + ttkbootstrap.
 
@@ -28,14 +28,14 @@ O projeto permite cadastrar pessoas, relacionar pais e mães, pesquisar registro
 
 ## ⚙️ Funcionalidades
 
-* 📌 Cadastro de pessoas com nome, descrição e passagem
-* 👨‍👩‍👧 Relacionamento de pais e mães (FK no SQLite)
-* 🔎 Sistema de busca com múltiplos filtros dinâmicos
-* ✏️ Edição de registros via janela modal
-* 🗑️ Exclusão de registros com confirmação
-* 🌳 Geração de árvore genealógica recursiva
-* 🎨 Interface com temas claros e escuros (ttkbootstrap)
-* 💾 Persistência de dados com SQLite
+*  Cadastro de pessoas com nome, descrição e passagem
+*  Relacionamento de pais e mães (FK no SQLite)
+*  Sistema de busca com múltiplos filtros dinâmicos
+*  Edição de registros via janela modal
+*  Exclusão de registros com confirmação
+*  Geração de árvore genealógica recursiva
+*  Interface com temas claros e escuros (ttkbootstrap)
+*  Persistência de dados com SQLite
 
 ---
 
